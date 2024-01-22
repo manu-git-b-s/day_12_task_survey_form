@@ -1,4 +1,4 @@
-# DAY-12 TASK-2
+# DAY-12 TASK-2 Survey form
 
 # Survey Form using HTML and Bootstrap
 
@@ -16,4 +16,4 @@ This repository contains a responsive survey form created with `HTML and Bootstr
 
 **Deployed source code link👇**
 
-If you wanna try this application **[Survey Form]()**
+If you wanna try this application **[Survey Form](https://survey-form-manupriyan.netlify.app)**
